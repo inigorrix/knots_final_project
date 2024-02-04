@@ -21,7 +21,7 @@ Finally, two versions of a computer game were built applying the concepts studie
 
 ### Calculation and visualization tools
 
-[PyArcKnot](https://github.com/inigorrix/pyarcknot) is a package for studying the arc diagrams of mathematical knots.
+The [PyArcKnot Python Package](https://github.com/inigorrix/pyarcknot) was developed to studying the arc diagrams of mathematical knots.
 For an in-depth demonstration of the possibilities available, check out the [Jupyter Notebook demo](https://github.com/inigorrix/pyarcknot_demo/blob/main/pyarcknot_demo.ipynb).
 
 ![image](https://github.com/inigorrix/knots_final_project/blob/main/docs/t_54_sad.png)
