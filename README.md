@@ -13,7 +13,7 @@ Next, calculation tools, such as an algorithm to determine the Jones polynomial 
 Finally, two versions of a computer game were built applying the concepts studied in the theoretical part and using the tools previously developed.
 
 ![image](https://github.com/inigorrix/knots_final_project/blob/main/docs/64arc.png)
-![image](https://github.com/inigorrix/knots_final_project/blob/main/docs/cob64.png)
+![image](https://github.com/inigorrix/knots_final_project/blob/main/docs/turaev.gif)
 ![image](https://github.com/inigorrix/knots_final_project/blob/main/docs/sup64.jpg)
 
 
